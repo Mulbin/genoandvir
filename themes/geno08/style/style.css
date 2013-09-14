@@ -1,0 +1,36 @@
+body {
+	scrollbar-3dlight-color: #E0E0E0;
+	scrollbar-arrow-color : #E0E0E0;
+	scrollbar-base-color : #FFFFFF;
+	scrollbar-darkshadow-color : #FFFFFF;
+	scrollbar-face-color : #FFFFFF;
+	scrollbar-highlight-color : #E0E0E0;
+	scrollbar-shadow-color : #E0E0E0;
+	scrollbar-track-color : #E0E0E0;
+	
+	margin-top:0px;
+	margin-bottom:0px;
+	
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 10pt;
+	color:#542D10;
+}
+td {
+	font-size: 10pt;
+}
+th {
+	font-size: 10pt;
+}
+
+a:link, a:visited {
+	font-family: Arial, sans-serif, Verdana, charter;
+	color: #019340;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover, a:active {
+	font-family: Arial, sans-serif, Verdana, charter;
+	color:  #495676;
+	font-weight: bold;
+	text-decoration: none;
+}

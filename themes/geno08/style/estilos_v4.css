@@ -1,0 +1,201 @@
+/*
+Estos estilos son usados por el código por lo que son necesarios
+para una correcta visualización de las secciones como Buscador,
+Forma de contacto, Promoción de inmuebles y otras páginas generadas
+por el Sistema Inmobiliario
+*/
+.observaciones {
+	font-size: 8pt;
+	font-weight: normal;	
+}
+
+table.formulario {
+	border: 1px;
+	border-color: #000033;
+	border-style: solid;
+	border-width: 1px;
+}
+th.formulario {
+	padding: 2px;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000033;
+	text-align: center;
+}
+td.formulario {
+	padding: 5px;
+	font-size: 10pt;
+}
+.txt_formulario {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	font-weight: normal;
+}
+.formulario {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+table.ventana_emergente {
+	width: 170px;
+	border-color: #000033;
+	border-style: solid;
+	border-width: 1px;
+}
+td.ventana_emergente {
+	padding: 5px;
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	font-weight: normal;
+	color: #000033;
+}
+table.ficha_inmueble {
+	width: 90%;
+	border-color: #000033;
+	border-style: solid;
+	border-width: 1px;
+}
+td.ficha_inmueble_campo {
+	padding: 2px;
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+	text-align: right;
+}
+td.ficha_inmueble_contenido {
+	padding: 2px;
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+	text-align: left;
+}
+table.preguntas_respuestas {
+	width: 100%;
+	border-color: #000033;
+	border-style: solid;
+	border-width: 1px;
+}
+td.preguntas {
+	padding: 2px;
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+}
+td.respuestas {
+	padding: 2px;
+	padding-left: 15px;
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+}
+table.galeria {
+	border-color: #000033;
+	border-style: solid;
+	border-width: 1px;
+}
+td.galeria {
+	padding: 2px;
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+	text-align: center;
+}
+table.comparativa {
+	width: 100%;
+	border-color: #000033;
+	border-style: solid;
+	border-width: 1px;
+}
+th.comparativa {
+	padding: 2px;
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	font-weight: bold;
+	color: #000033;
+	text-align: center;
+}
+td.comparativa {
+	padding: 2px;
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	font-weight: normal;
+	color: #000033;
+	text-align: center;
+	border-color: #000033;
+	border-style: solid;
+	border-width: 1px;
+}
+a.comparativa:link, a.comparativa:visited, a.comparativa:hover, a.comparativa:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #000033;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a.paginador:link, a.paginador:visited, a.paginador:hover, a.paginador:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #000033;
+	font-weight: normal;
+	text-decoration: none;
+}
+.paginador {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: normal;
+	color: #000033;
+}
+
+.secciones {
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+}
+a.secciones:link, a.secciones:visited {
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.secciones:hover, a.secciones:active {
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+table.light_listado_general {
+	width: 100%;
+}
+td.light_listado_general {
+	padding: 5px;
+}
+table.light_listado_individual {
+	width: 125px;
+	border: 1px solid #000033;
+	padding: 2px;
+	height: 150px;
+}
+td.light_listado_individual {
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+	text-align: center;
+}
+
+table.inmuebles_nuevos {
+	width: 130px;
+	border: 1px solid #000033;
+	padding: 2px;
+	height: 190px;
+}
+td.inmuebles_nuevos {
+	font-family: Arial, sans-serif, Verdana, charter;
+	font-size: 8pt;
+	color: #000033;
+	text-align: center;
+}
